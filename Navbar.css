@@ -1,0 +1,16 @@
+.navbar-light{
+    background-color: darkblue;
+    color: white;
+}.navbar-brand{
+    background-color: rgb(1, 2, 53);
+    padding: 8px;
+    border: 2px solid white;
+    border-radius: 15px;
+}.navbar-toggler{
+    background-color: white;
+}.offcanvas-header{
+    background-color: darkblue;
+
+}.offcanvas-body{
+    background-color: whitesmoke;
+}

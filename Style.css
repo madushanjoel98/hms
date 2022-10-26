@@ -1,0 +1,18 @@
+.Loginform{
+    display: inline-table;
+    border: 2px solid darkblue;
+    padding: 40px;
+    text-align: left;
+    width: 400px;
+}.Login-btn{
+    text-align: center;
+}
+.Emp-Creat-employe{
+    display: inline-table;
+    border: 2px solid darkblue;
+    padding: 25px;
+    text-align: left;
+    width: 400px;
+}.card-header{
+    background-color: darkgray;
+}
